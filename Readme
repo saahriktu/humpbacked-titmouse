@@ -1,0 +1,5 @@
+Humpback titmouse v0.9, Multibase numbers converter, supports 2-36 bases
+
+Usage: humpbacktitmouse number source_base destination_base
+
+Wrote by Kurashov A.K. (author homepage: saahriktu.org), 2013, under GNU GPLv3
